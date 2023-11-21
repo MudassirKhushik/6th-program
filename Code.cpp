@@ -1,6 +1,5 @@
 //This is my sixth c++ program
 // Write a program in which the compilers gets any number from the used
-
 #include<iostream>
 using namespace std; 
 
